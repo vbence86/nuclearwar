@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"scripts"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"me",
+				"measure"
+			],
+			[
+				"hrs_",
+				"hrs_scrolling"
+			],
+			[
+				"hrs_step_",
+				"hrs_step_last"
+			],
+			[
+				"hrs_c",
+				"hrs_current"
+			],
+			[
+				"hrs_S",
+				"hrs_start"
+			],
+			[
+				"resize",
+				"resizeHRS"
+			],
+			[
+				"skroll",
+				"skrollr"
+			],
+			[
+				"scroll",
+				"scroll_top"
+			],
+			[
+				"hrs_st",
+				"hrs_start"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"hrs",
+				"hrs_step"
+			],
+			[
+				"set",
+				"setHRSPlaceholderHeight"
+			],
+			[
+				"hrs_step",
+				"hrs_step_number"
+			],
+			[
+				"get",
+				"getEndPos"
+			],
+			[
+				"HRS",
+				"HRSController"
+			],
+			[
+				"scrol",
+				"scroll_top"
+			],
+			[
+				"pledges",
+				"pledges-scene"
+			],
+			[
+				"pled",
+				"pledges-next-button"
+			],
+			[
+				"animat",
+				"animateHero"
+			],
+			[
+				"hrs_ste",
+				"hrs_steps"
+			],
+			[
+				"pr",
+				"previousPledge"
+			],
+			[
+				"scrollTo",
+				"scrollToPledge"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"scale",
+				"scaleclouds"
+			],
+			[
+				"clou",
+				"cloud_container"
+			],
+			[
+				"getTran",
+				"getTransitionDuration"
+			],
+			[
+				"ms-",
+				"ms-transform"
+			],
+			[
+				"moz-",
+				"moz-transform"
+			],
+			[
+				"web",
+				"webkit-transform"
+			],
+			[
+				"w",
+				"word_wrap"
+			],
+			[
+				"c",
+				"Client"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"response",
+				"response_lines"
+			],
+			[
+				"res",
+				"response_lines"
+			],
+			[
+				"a",
+				"array_sort_bubble"
+			],
+			[
+				"re",
+				"dir_walk_recursive"
+			],
+			[
+				"search",
+				"search_files_in_dir"
+			],
+			[
+				"dir",
+				"dir_walk_recursive"
+			],
+			[
+				"array",
+				"array_walk_recursive"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Contro in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"Javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Syntax: Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"Php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bence/dev/html5/sandbox/nuclearwar/gruntfile.js",
+		"/home/bence/dev/html5/sandbox/nuclearwar/sass/main.scss",
+		"/home/bence/dev/html5/sandbox/nuclearwar/sass/styles.scss",
+		"/home/bence/dev/html5/sandbox/nuclearwar/dist/index.html",
+		"/home/bence/dev/html5/sandbox/nuclearwar/sass/variables.scss",
+		"/home/bence/dev/html5/sandbox/nuclearwar/.csslintrc",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/variables.scss",
+		"/home/bence/dev/html5/sandbox/Touch_Roulette5/Roulette5/gulpfile.js",
+		"/home/bence/dev/html5/sandbox/Touch_Roulette5/Roulette5/scripts/uncompressed/Canvas.js",
+		"/home/bence/dev/html5/sandbox/Touch_Roulette5/Roulette5/scripts/uncompressed/main.js",
+		"/home/bence/dev/html5/sandbox/nuclearwar/sass/mixins.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/gruntfile.js",
+		"/home/bence/dev/html5/sandbox/nuclearwar/package.json",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/js/custom/uncompressed/custom.js",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/custom.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/index.html",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/styles.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/sprites.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/mixins.scss",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/dist/js/main.js",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/sprites.css",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/js/custom/custom.min.js",
+		"/home/bence/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/sass/custom.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/js/custom/custom.js",
+		"/home/bence/dev/html5/grunt/test/index.html",
+		"/home/bence/dev/html5/grunt/test/coffee/main.coffee",
+		"/home/bence/dev/html5/grunt/test/less/main.less",
+		"/home/bence/dev/html5/grunt/test/gruntfile.js",
+		"/home/bence/.config/sublime-text-2/Packages/User/html5.sublime-snippet",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/css/img/bits2.png",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/fonts.scss",
+		"/home/bence/dev/html5/sandbox/powerplantswww/sass/fonts.css",
+		"/home/bence/dev/html5/sandbox/powerplantswww/dist/css/img/bits1.png",
+		"/home/bence/dev/html5/sandbox/Parallax_scrolling/styles/screen.css",
+		"/home/bence/dev/html5/sandbox/Parallax_scrolling/index.html",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/dist/js/custom-lib/sharebox.js",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/dist/js/lib/extend.js",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/sass/style.scss",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/sass/bootstrap-social.scss",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/sass/bootstrap.scss",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/.sass-cache/b3599f869e4f44f9ff60a91897ef4042b4468149/style.scssc",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/sass/main.scss",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/sass/bootstrap.scss",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/sass/custom.scss",
+		"/home/bence/dev/html5/sandbox/message-cloud.webellion.hu/dist/css/style.css",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/dist/index.html",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/dist/services/ContactMeService/contact-me-email.html.php",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/dist/services/ContactMeService/index.php",
+		"/home/bence/dev/php/webellion/mng-investments-zrt/web/wp-content/themes/mng-zrt/style.css",
+		"/home/bence/dev/php/webellion/mng-investments-zrt/web/wp-content/themes/mng-zrt/dialogs.php",
+		"/home/bence/dev/php/webellion/mng-investments-zrt/web/wp-content/themes/mng-zrt/res/js/custom/custom-scripts.js",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/sass/carousel.scss",
+		"/home/bence/dev/html5/sandbox/tamasvarga.webellion.hu/bower_components/bootstrap/less/bootstrap.less",
+		"/home/bence/dev/html5/sandbox/SassTest/scss/style.scss",
+		"/home/bence/dev/html5/sandbox/SassTest/scss/specified.scss",
+		"/home/bence/dev/html5/sandbox/SassTest/dist/index.html",
+		"/home/bence/dev/html5/sandbox/SassTest/dist/css/style.css",
+		"/home/bence/dev/html5/sandbox/SassTest/dist/css/bootstrap.css",
+		"/home/bence/dev/html5/sandbox/SassTest/index.html",
+		"/home/bence/dev/php/senso/MonitoringSystem/Admin/frontend/lang/not-found.json",
+		"/var/www/json-service.test.php",
+		"/home/bence/dev/nodejs/test/json-service.js",
+		"/home/bence/dev/perl/dojo/dir_walk_recursive_kata_3.pl",
+		"/home/bence/dev/perl/dojo/word_wrap_kata_4.pl",
+		"/home/bence/dev/nodejs/test/simple_server.js",
+		"/home/bence/dev/php/test/json-service.test.php",
+		"/home/bence/dev/nodejs/test/simple_server_2.js",
+		"/home/bence/dev/php/test/hello_world.php",
+		"/home/bence/dev/php/test/stand-alone-web-server.php",
+		"/home/bence/dev/perl/dojo/array_sort_bubble_kata_1.pl",
+		"/home/bence/dev/perl/dojo/word_wrap_kata_3.pl",
+		"/home/bence/dev/perl/dojo/array_walk_recursive_kata_2.pl",
+		"/home/bence/dev/perl/dojo/array_walk_recursive_kata_1.pl",
+		"/home/bence/dev/perl/dojo/dir_walk_recursive_kata_2.pl",
+		"/home/bence/dev/perl/dojo/quicksort_kata_1.pl",
+		"/home/bence/dev/perl/dojo/arkad_test.pl",
+		"/home/bence/dev/perl/dojo/search_pattern_in_dir_kata_1.pl",
+		"/home/bence/dev/perl/dojo/word_wrap_kata_2.pl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"isAndroid",
+			".pledge-poster",
+			"about-us",
+			"HRSController",
+			"frame",
+			"hero_dimension",
+			"px",
+			"move",
+			"spirtes",
+			"]\n",
+			"setHRSPlaceholderHeight",
+			"setupHRS",
+			"hrs_step_last",
+			"height",
+			"scrollToTop",
+			"setupHRS",
+			"console.log",
+			"resizeHRS",
+			"toggleHRSAtLastStep",
+			"punc",
+			"updateHRSCurrent",
+			"toggleHRSAtLastStep",
+			"powerplants-logo-container",
+			"setDefaultTransition",
+			"TRANSACTION_EVENTS",
+			"transition",
+			"getScrollPosition",
+			"twitter",
+			"goog",
+			"max-width",
+			"@media",
+			"hiretextleft",
+			"scroll_to",
+			"rotate",
+			":nth-child(",
+			"$radius",
+			"body {\n",
+			"color: #5A5A5A;\n",
+			"body {\n  color: #5A5A5A;\n",
+			"padding-bottom: 4",
+			"padding-bottom: 40px",
+			"margin-bottom",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"em",
+			"hero",
+			"sprites",
+			"void_left",
+			"scale",
+			".pic",
+			"$x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				".sass-cache/b3599f869e4f44f9ff60a91897ef4042b4468149/style.scssc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true
+}
